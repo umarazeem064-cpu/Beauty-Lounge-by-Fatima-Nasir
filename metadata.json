@@ -1,0 +1,6 @@
+{
+  "name": "Beauty Lounge by Fatima Nasir — Multan",
+  "description": "Luxury hair, bridal makeup, clinical skincare, and beauty sanctuary by celebrity artist Fatima Nasir in Gulgasht Colony, Multan. Explore services, pricing, and book appointments online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
